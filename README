@@ -1,0 +1,1 @@
+In the assignment description, it states to count swap per index, I read this as counting the swaps per index address not value, so index 0 swaps 3 times, not index 0 (97) swaps 8 times.
